@@ -67,4 +67,5 @@ footer{
   display: flex;
   background-color: hsl(100, 5%, 50%);
   margin-top: auto;
+  justify-content: center;
 }
